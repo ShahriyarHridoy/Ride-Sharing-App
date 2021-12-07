@@ -1,0 +1,15 @@
+{
+  "name": "Ride-Sharing-App",
+  "version": "1.0.0",
+  "description": " **Ride Sharing** app. It is a academic project.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "dependencies": {
+    "@supercharge/strings": "^1.18.0",
+    "node-schedule": "^2.0.0",
+    "socket.io-client": "^4.0.1"
+  }
+}
